@@ -78,7 +78,7 @@ namespace TARpe22MauiPlanets.Services
                 }
             },
 
-                        new()
+            new()
             {
                 Name = " Mars",
                 Subtitle = "  The iron planet",
@@ -118,7 +118,7 @@ namespace TARpe22MauiPlanets.Services
                 }
             },
 
-                        new()
+            new()
             {
                 Name = " Saturn",
                 Subtitle = "  The ring planet",
@@ -182,6 +182,17 @@ namespace TARpe22MauiPlanets.Services
                 }
             },
     };
+
+        public static List<Planet> GetFeaturedPlanets()
+        {
+            var random = new Random();
+            var ranomizedPlanets = planets.OrderBy(item => random.Next());
+
+            return ranomizedPlanets.Take(2).ToList();
+        }
+
+        public static List<Planet> GetAllPlanet()
+            => planets;
 
     }
 }
