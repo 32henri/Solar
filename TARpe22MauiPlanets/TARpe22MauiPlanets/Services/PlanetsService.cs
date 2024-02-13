@@ -191,7 +191,7 @@ namespace TARpe22MauiPlanets.Services
             return ranomizedPlanets.Take(2).ToList();
         }
 
-        public static List<Planet> GetAllPlanet()
+        public static List<Planet> GetAllPlanets()
             => planets;
 
     }
