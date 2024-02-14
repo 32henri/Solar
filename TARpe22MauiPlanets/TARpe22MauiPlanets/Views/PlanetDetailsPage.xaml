@@ -101,7 +101,7 @@
                 Margin="0,-6,0,0"
                 HeightRequest="400"
                 WidthRequest="400"
-                ItemsSource="{Binding Image}">
+                ItemsSource="{Binding Images}">
 
                 <CollectionView.ItemsLayout>
                     <LinearItemsLayout
