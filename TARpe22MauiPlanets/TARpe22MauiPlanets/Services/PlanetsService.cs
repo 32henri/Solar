@@ -47,9 +47,9 @@ namespace TARpe22MauiPlanets.Services
                 AccentColorEnd = Color.FromArgb("#d17f21"),
                 Images = new()
                 {
-                    "https://solarsystem.nasa.gov/system/feature_items/images/143_Venus-800x600.jpg",
-                    "https://solarsystem.nasa.gov/system/feature_items/images/147_Hubble_Venus_Clouds-800x600.jpg",
-                    "https://solarsystem.nasa.gov/system/feature_items/images/146_venus_carousel_3.jpg",
+                    "https://science.nasa.gov/wp-content/uploads/2023/09/Venus.jpg?w=4096&format=jpeg",
+                    "https://www.nasa.gov/wp-content/uploads/2023/02/1_venus-corona-1041.jpg?w=4096&format=jpeg",
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJtj54J5oUbL5Qd7k7pCL1x8svYGw_BK_04ug3CF7axoECxVDUCPa_a49rinbSXLhTMAo&usqp=CAU",
                     "https://solarsystem.nasa.gov/system/feature_items/images/144_PIA00485_Venus_Caldera-800.jpg"
                 }
             },
@@ -112,9 +112,9 @@ namespace TARpe22MauiPlanets.Services
                 AccentColorEnd = Color.FromArgb("#cd8026"),
                 Images = new()
                 {
-                    "https://solarsystem.nasa.gov/system/feature_items/images/11_Full_Jupiter-800.jpg",
-                    "https://solarsystem.nasa.gov/system/feature_items/images/10_Jupiter_Io_Juno-800.jpg",
-                    "https://solarsystem.nasa.gov/system/feature_items/images/13_PIA24237_Jupiter_Cyclones-800.jpg"
+                    "https://upload.wikimedia.org/wikipedia/commons/2/2b/Jupiter_and_its_shrunken_Great_Red_Spot.jpg",
+                    "https://images.delfi.ee/media-api-image-cropper/v1/54dd75e0-b7dc-11eb-b2a3-a99842433e6e.jpg?noup&w=1200&h=711&ch=0.687&cw=1&cx=0&cy=0.0931&r=16:9",
+                    "https://images.newscientist.com/wp-content/uploads/2019/05/21162807/pia21978.jpg?width=800"
                 }
             },
 
@@ -133,9 +133,9 @@ namespace TARpe22MauiPlanets.Services
                 AccentColorEnd = Color.FromArgb("#c6502f"),
                 Images = new()
                 {
-                    "https://solarsystem.nasa.gov/system/feature_items/images/151_saturn_carousel_1.jpg",
-                    "https://solarsystem.nasa.gov/system/feature_items/images/152_saturn_carousel_2.jpg",
-                    "https://solarsystem.nasa.gov/system/feature_items/images/155_saturn_carousel_5.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Saturn_during_Equinox.jpg/800px-Saturn_during_Equinox.jpg",
+                    "https://starwalk.space/gallery/images/saturn-planet-guide/1920x1080.jpg",
+                    "https://images.squarespace-cdn.com/content/v1/5fa5ec79661ee904d2973ca0/1678740394793-H2ZM9W2E8WFYUOCVFDHY/saturn.png",
                     "https://solarsystem.nasa.gov/system/feature_items/images/153_saturn_carousel_3.jpg"
                 }
             },
@@ -155,9 +155,9 @@ namespace TARpe22MauiPlanets.Services
                 AccentColorEnd = Color.FromArgb("#996237"),
                 Images = new()
                 {
-                    "https://solarsystem.nasa.gov/system/feature_items/images/88_carousel_uranus.jpg",
-                    "https://solarsystem.nasa.gov/system/feature_items/images/89_uranus_carousel_1.jpg",
-                    "https://solarsystem.nasa.gov/system/feature_items/images/88_carousel_uranus.jpg"
+                    "https://imageio.forbes.com/specials-images/imageserve/5f91806c76fcfa4a1e885d7c/Uranus-will-this-week-be-easy-to-see-for-one-night-only-just-north-of-a-crescent/960x0.jpg?format=jpg&width=960",
+                    "https://hips.hearstapps.com/hmg-prod/images/uranus-1585338466.jpg?resize=640:*",
+                    "https://i.guim.co.uk/img/media/cfaf66fa2f6eace8b572cdeec88eb737a220d21d/0_112_4587_2752/master/4587.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=34fcc81f34b0a1f5950f11495b69a439"
                 }
             },
 
@@ -176,9 +176,9 @@ namespace TARpe22MauiPlanets.Services
                 AccentColorEnd = Color.FromArgb("#26abe0"),
                 Images = new()
                 {
-                    "https://solarsystem.nasa.gov/system/feature_items/images/82_carousel_neptune_1.jpg",
-                    "https://solarsystem.nasa.gov/system/feature_items/images/86_carousel_neptune_5.jpg",
-                    "https://solarsystem.nasa.gov/system/feature_items/images/84_neptune_carousel_2.jpg"
+                    "https://cdn.mos.cms.futurecdn.net/cLrku7C3dzwjtD4vYBYPvH-1200-80.jpg",
+                    "https://study.com/cimages/multimages/16/bigblueboi4dcafa81-8718-40a0-a4fb-c84c86495e22.jpg",
+                    "https://img-aws.ehowcdn.com/360x267p/s3-us-west-1.amazonaws.com/contentlab.studiod/getty/cf0ffa37c3004b5b8e850c882d4d6d20.jpg"
                 }
             },
 
