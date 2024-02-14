@@ -164,7 +164,7 @@ namespace TARpe22MauiPlanets.Services
             new()
             {
                 Name = " Neptune",
-                Subtitle = "  The god of the sea",
+                Subtitle = " The god of the sea",
                 HeroImage = "neptune.png",
                 Description = "Neptune is the eighth planet from the Sun and " +
                 "the farthest known planet in the Solar System. It is the " +
@@ -179,6 +179,110 @@ namespace TARpe22MauiPlanets.Services
                     "https://solarsystem.nasa.gov/system/feature_items/images/82_carousel_neptune_1.jpg",
                     "https://solarsystem.nasa.gov/system/feature_items/images/86_carousel_neptune_5.jpg",
                     "https://solarsystem.nasa.gov/system/feature_items/images/84_neptune_carousel_2.jpg"
+                }
+            },
+
+            new()
+            {
+                Name = " Pluto",
+                Subtitle = "Fake planet",
+                HeroImage = "pluto.png",
+                Description = "Pluto is a dwarf planet located in a distant region of our solar system beyond Neptune known as the Kuiper Belt. " +
+                "Pluto was long considered our ninth planet, but the International Astronomical Union reclassified Pluto as a dwarf planet in 2006. " +
+                "NASA's New Horizons was the first spacecraft to explore Pluto up close, " +
+                "flying by the dwarf planet and its moons in 2015. " +
+                "It found that Pluto is a complex world with mountains, valleys, plains, " +
+                "craters, and apparently even glaciers.",
+                AccentColorStart = Color.FromArgb("#0c293d"),
+                AccentColorEnd = Color.FromArgb("#26abe0"),
+                Images = new()
+                {
+                    "https://cdn.uanews.arizona.edu/s3fs-public/styles/uaqs_large/public/story-images/Pluto%20whole%20color.png?itok=ytlG1fwV",
+                    "https://cdn.britannica.com/41/202741-050-7AC6775D/Close-up-mountains-plains-spacecraft-Pluto-New-Horizons.jpg",
+                    "https://cdn.mos.cms.futurecdn.net/XbGFufdJcjcF9pZtgcRwcZ.jpg"
+                }
+            },
+
+            new()
+            {
+                Name = " Ceres",
+                Subtitle = "Culture",
+                HeroImage = "ceres.png",
+                Description = " Dwarf planet Ceres is the largest object in the asteroid belt between Mars and Jupiter, " +
+                " and it's the only dwarf planet located in the inner solar system. " +
+                " It was the first member of the asteroid belt to be discovered " +
+                " when Giuseppe Piazzi spotted it in 1801." +
+                " When NASA's Dawn arrived in 2015," +
+                " Ceres became the first dwarf planet to be explored by a spacecraft.",
+                AccentColorStart = Color.FromArgb("#0c293d"),
+                AccentColorEnd = Color.FromArgb("#26abe0"),
+                Images = new()
+                {
+                    "https://upload.wikimedia.org/wikipedia/commons/7/76/Ceres_-_RC3_-_Haulani_Crater_%2822381131691%29_%28cropped%29.jpg",
+                    "https://i.natgeofe.com/n/b4a4f4c3-269e-4f37-a94d-45d86cf0cb52/ceres_occatorcrater_square.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/PIA20353_Ceres_Neutron_Counts_Reflect_Hydrogen_Abundance_%28cropped%29.jpg/220px-PIA20353_Ceres_Neutron_Counts_Reflect_Hydrogen_Abundance_%28cropped%29.jpg"
+                }
+            },
+            new()
+            {
+                Name = "Haumea",
+                Subtitle = "Secret Santa",
+                HeroImage = "haumea.png",
+                Description = " " +
+                " Dwarf planet Haumea was originally designated 2003 EL61 (and nicknamed Santa by one discovery team)." +
+                " Haumea is located in the Kuiper Belt," +
+                " a doughnut-shaped region of icy bodies beyond the orbit of Neptune." +
+                " Haumea is an oval-shaped dwarf planet that is roughly the same size as Pluto." +
+                " It is one of the fastest rotating large objects in our solar system. ",
+                AccentColorStart = Color.FromArgb("#0c293d"),
+                AccentColorEnd = Color.FromArgb("#26abe0"),
+                Images = new()
+                {
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Haumea_Rotation.gif/213px-Haumea_Rotation.gif",
+                    "https://astrophotographylens.com/cdn/shop/articles/Haumea.jpg?v=1693095371&width=1000",
+                    "https://media.istockphoto.com/id/1211739638/photo/haumea-dwarf-planet-rotating-in-the-outer-space-3d-render.jpg?s=612x612&w=0&k=20&c=3bkcnYwR3p70yfaTVNxBMS9AqScR8RGNVsgVBGCZTZ4="
+                }
+            },
+
+            new()
+            {
+                Name = "Makemake",
+                Subtitle = "Shiny",
+                HeroImage = "makemake.png",
+                Description = " " +
+                " Dwarf planet Makemake – along with Pluto, Haumea, and Eris" +
+                " is located in the Kuiper Belt, a donut-shaped region of icy bodies beyond the orbit of Neptune." +
+                " Makemake is slightly smaller than Pluto, and is the second-brightest object in the Kuiper Belt" +
+                " as seen from Earth while Pluto is the brightest. " +
+                "It takes about 305 Earth years for this dwarf planet to make one trip around the Sun.\r\n\r\n",
+                AccentColorStart = Color.FromArgb("#0c293d"),
+                AccentColorEnd = Color.FromArgb("#26abe0"),
+                Images = new()
+                {
+                    "https://cdn.mos.cms.futurecdn.net/8QBGiy9BhmttKdGeAAZpn8.jpg",
+                    "https://media02.stockfood.com/largepreviews/MzkxNTg4NTU5/12631889-Dwarf-Planet-Makemake-Illustration.jpg",
+                    "https://lirp.cdn-website.com/b905c406/dms3rep/multi/opt/stock-photo-fictional-makemake-with-stars-photo-realistic-d-planet-1977231464-dd07f30a-640w.jpg"
+                }
+            },
+
+            new()
+            {
+                Name = "Eris",
+                Subtitle = "Fake planet",
+                HeroImage = "eris.png",
+                Description = " " +
+                " The discovery of Eris help trigger a debate in the scientific community" +
+                " that led to the International Astronomical Union's decision in 2006 to clarify the definition of a planet." +
+                " Pluto, Eris, and other similar objects are now classified as dwarf planets." +
+                " Eris was discovered on Jan. 5, 2005, from data obtained on Oct. 21, 2003, " +
+                " during a Palomar Observatory survey of the outer solar system by Mike Brown",
+                AccentColorStart = Color.FromArgb("#0c293d"),
+                AccentColorEnd = Color.FromArgb("#26abe0"),
+                Images = new()
+                {
+                    "https://i.natgeofe.com/n/495a21cb-c570-43d8-b5f7-3dfbedb91932/42531.jpg",
+                    "https://science.nasa.gov/wp-content/uploads/2023/06/Artists_c_oncept_of_Eris_and_Dysnomia_far_from_the_Sun-jpeg.webp?w=4096&format=png",
+                    "https://solarsystem.nasa.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaUFSIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1f24a5d7e143ef1d68416edb76a51ec065c1019c/eris_th.jpg?disposition=inline"
                 }
             },
     };

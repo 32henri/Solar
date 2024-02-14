@@ -123,6 +123,10 @@
                             <RoundRectangle CornerRadius="6" />
                         </Border.StrokeShape>
 
+                        <Border.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="ProfilePic_Clicked" />
+                        </Border.GestureRecognizers>
+
                         <Grid HorizontalOptions="Fill"
                               VerticalOptions="Center"
                               ColumnDefinitions="Auto, *"
