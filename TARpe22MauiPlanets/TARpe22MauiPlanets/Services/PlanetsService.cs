@@ -8,7 +8,7 @@ namespace TARpe22MauiPlanets.Services
         {
             new()
             {
-                Name = "Mercury",
+                Name =   "Mercury",
                 Subtitle = "  The smallest planet",
                 HeroImage = "mercury.png",
                 Description = "Mercury is the smallest planet in the Solar " +
@@ -32,7 +32,7 @@ namespace TARpe22MauiPlanets.Services
 
             new()
             {
-                Name = "Venus",
+                Name =   "Venus",
                 Subtitle = "  The pressure cooker",
                 HeroImage = "venus.png",
                 Description = "Venus is the second planet from the Sun. It is sometimes " +
@@ -56,7 +56,7 @@ namespace TARpe22MauiPlanets.Services
 
             new()
             {
-                Name = "Earth",
+                Name =   "Earth",
                 Subtitle = "  The cradle of life",
                 HeroImage = "earth.png",
                 Description = "Earth is the third planet from the Sun and the " +
@@ -80,7 +80,7 @@ namespace TARpe22MauiPlanets.Services
 
             new()
             {
-                Name = " Mars",
+                Name = "  Mars",
                 Subtitle = "  The iron planet",
                 HeroImage = "mars.png",
                 Description = "Mars is the fourth planet from the Sun – a dusty, " +
@@ -100,7 +100,7 @@ namespace TARpe22MauiPlanets.Services
 
             new()
             {
-                Name = " Jupiter",
+                Name = "  Jupiter",
                 Subtitle = "  The gas giant",
                 HeroImage = "jupiter.png",
                 Description = "Jupiter is the fifth planet from the Sun and " +
@@ -120,7 +120,7 @@ namespace TARpe22MauiPlanets.Services
 
             new()
             {
-                Name = " Saturn",
+                Name = "  Saturn",
                 Subtitle = "  The ring planet",
                 HeroImage = "saturn.png",
                 Description = "Saturn is the sixth planet from the Sun and " +
@@ -142,7 +142,7 @@ namespace TARpe22MauiPlanets.Services
 
             new()
             {
-                Name = " Uranus",
+                Name = "  Uranus",
                 Subtitle = "  The Herschel planet",
                 HeroImage = "uranus.png",
                 Description = "Uranus is the seventh planet from the Sun. " +
@@ -163,7 +163,7 @@ namespace TARpe22MauiPlanets.Services
 
             new()
             {
-                Name = " Neptune",
+                Name = "  Neptune",
                 Subtitle = " The god of the sea",
                 HeroImage = "neptune.png",
                 Description = "Neptune is the eighth planet from the Sun and " +
@@ -184,7 +184,7 @@ namespace TARpe22MauiPlanets.Services
 
             new()
             {
-                Name = " Pluto",
+                Name = "  Pluto",
                 Subtitle = "Fake planet",
                 HeroImage = "pluto.png",
                 Description = "Pluto is a dwarf planet located in a distant region of our solar system beyond Neptune known as the Kuiper Belt. " +
@@ -205,15 +205,15 @@ namespace TARpe22MauiPlanets.Services
 
             new()
             {
-                Name = " Ceres",
+                Name = "  Ceres",
                 Subtitle = "Culture",
                 HeroImage = "ceres.png",
-                Description = " Dwarf planet Ceres is the largest object in the asteroid belt between Mars and Jupiter, " +
-                " and it's the only dwarf planet located in the inner solar system. " +
-                " It was the first member of the asteroid belt to be discovered " +
-                " when Giuseppe Piazzi spotted it in 1801." +
-                " When NASA's Dawn arrived in 2015," +
-                " Ceres became the first dwarf planet to be explored by a spacecraft.",
+                Description = "Dwarf planet Ceres is the largest object in the asteroid belt between Mars and Jupiter, " +
+                "  and it's the only dwarf planet located in the inner solar system. " +
+                "  It was the first member of the asteroid belt to be discovered " +
+                "  when Giuseppe Piazzi spotted it in 1801." +
+                "  When NASA's Dawn arrived in 2015," +
+                "  Ceres became the first dwarf planet to be explored by a spacecraft.",
                 AccentColorStart = Color.FromArgb("#0c293d"),
                 AccentColorEnd = Color.FromArgb("#26abe0"),
                 Images = new()
@@ -225,15 +225,15 @@ namespace TARpe22MauiPlanets.Services
             },
             new()
             {
-                Name = "Haumea",
+                Name = "  Haumea",
                 Subtitle = "Secret Santa",
                 HeroImage = "haumea.png",
                 Description = " " +
-                " Dwarf planet Haumea was originally designated 2003 EL61 (and nicknamed Santa by one discovery team)." +
-                " Haumea is located in the Kuiper Belt," +
-                " a doughnut-shaped region of icy bodies beyond the orbit of Neptune." +
-                " Haumea is an oval-shaped dwarf planet that is roughly the same size as Pluto." +
-                " It is one of the fastest rotating large objects in our solar system. ",
+                "Dwarf planet Haumea was originally designated 2003 EL61 (and nicknamed Santa by one discovery team)." +
+                "  Haumea is located in the Kuiper Belt," +
+                "  a doughnut-shaped region of icy bodies beyond the orbit of Neptune." +
+                "  Haumea is an oval-shaped dwarf planet that is roughly the same size as Pluto." +
+                "  It is one of the fastest rotating large objects in our solar system. ",
                 AccentColorStart = Color.FromArgb("#0c293d"),
                 AccentColorEnd = Color.FromArgb("#26abe0"),
                 Images = new()
@@ -246,15 +246,15 @@ namespace TARpe22MauiPlanets.Services
 
             new()
             {
-                Name = "Makemake",
+                Name = "  Makemake",
                 Subtitle = "Shiny",
                 HeroImage = "makemake.png",
                 Description = " " +
-                " Dwarf planet Makemake – along with Pluto, Haumea, and Eris" +
-                " is located in the Kuiper Belt, a donut-shaped region of icy bodies beyond the orbit of Neptune." +
-                " Makemake is slightly smaller than Pluto, and is the second-brightest object in the Kuiper Belt" +
-                " as seen from Earth while Pluto is the brightest. " +
-                "It takes about 305 Earth years for this dwarf planet to make one trip around the Sun.\r\n\r\n",
+                "Dwarf planet Makemake – along with Pluto, Haumea, and Eris" +
+                "  is located in the Kuiper Belt, a donut-shaped region of icy bodies beyond the orbit of Neptune." +
+                "  Makemake is slightly smaller than Pluto, and is the second-brightest object in the Kuiper Belt" +
+                "  as seen from Earth while Pluto is the brightest. " +
+                "  It takes about 305 Earth years for this dwarf planet to make one trip around the Sun.\r\n\r\n",
                 AccentColorStart = Color.FromArgb("#0c293d"),
                 AccentColorEnd = Color.FromArgb("#26abe0"),
                 Images = new()
@@ -267,15 +267,15 @@ namespace TARpe22MauiPlanets.Services
 
             new()
             {
-                Name = "Eris",
+                Name = "  Eris",
                 Subtitle = "Fake planet",
                 HeroImage = "eris.png",
                 Description = " " +
-                " The discovery of Eris help trigger a debate in the scientific community" +
-                " that led to the International Astronomical Union's decision in 2006 to clarify the definition of a planet." +
-                " Pluto, Eris, and other similar objects are now classified as dwarf planets." +
-                " Eris was discovered on Jan. 5, 2005, from data obtained on Oct. 21, 2003, " +
-                " during a Palomar Observatory survey of the outer solar system by Mike Brown",
+                "The discovery of Eris help trigger a debate in the scientific community" +
+                "  that led to the International Astronomical Union's decision in 2006 to clarify the definition of a planet." +
+                "  Pluto, Eris, and other similar objects are now classified as dwarf planets." +
+                "  Eris was discovered on Jan. 5, 2005, from data obtained on Oct. 21, 2003, " +
+                "  during a Palomar Observatory survey of the outer solar system by Mike Brown",
                 AccentColorStart = Color.FromArgb("#0c293d"),
                 AccentColorEnd = Color.FromArgb("#26abe0"),
                 Images = new()
